@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/ChatClient.dir/global_data.cc.o CMakeFiles/ChatClient.dir/main.cc.o  -o ../../../bin/ChatClient -lpthread 
